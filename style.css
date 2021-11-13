@@ -12,6 +12,14 @@ body {
   margin-left: 150px;
   margin: 0px 150px 100px 150px;
 }
+.container 2 {
+  display: flex:;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 150px;
+  margin-left: 150px;
+  margin: 0px 150px 100px 150px;
+}
 
 img {
   width: 350px;
